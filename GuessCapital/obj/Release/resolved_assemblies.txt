@@ -1,0 +1,13 @@
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/GuessCapital.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/Java.Interop.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/Mono.Android.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/mscorlib.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/Newtonsoft.Json.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/System.Core.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/System.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/System.Xml.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/System.Data.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/System.Numerics.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/System.Xml.Linq.dll
+/Users/alessio/Projects/GuessCapital/GuessCapital/obj/Release/android/assets/Mono.Security.dll

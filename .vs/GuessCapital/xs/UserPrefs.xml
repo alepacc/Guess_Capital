@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{90328DCE-9DF6-4925-89FF-09E1A8BB6AA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.GuessCapital AndroidDesignerPreferredTheme="Theme.DeviceDefault" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GuessCapital/GameActivity.cs">
+    <Files>
+      <File FileName="GuessCapital/MainActivity.cs" Line="34" Column="1" />
+      <File FileName="GuessCapital/GameActivity.cs" Line="96" Column="38" />
+      <File FileName="GuessCapital/Client.cs" Line="21" Column="9" />
+      <File FileName="GuessCapital/Items.cs" Line="11" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GuessCapital" expanded="True">
+            <Node name="GuessCapital" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+              <Node name="GameActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
