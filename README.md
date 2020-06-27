@@ -24,5 +24,4 @@ modalità di gioco. Capitali Europee o Capitali del mondo.
 * Game → Activity per il gioco, viene restituita una nazione in modo
 casuale e l’utente deve scrivere la capitale corrispondente.
  
-![screen_0](/screen_0.png)
-![screen_1](/screen_1.png)
+![screen_0](/screen_0.png) ![screen_1](/screen_1.png)
